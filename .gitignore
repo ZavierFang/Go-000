@@ -1,0 +1,4 @@
+.idea/
+log/**
+cmd/log/**
+.DS_Store
